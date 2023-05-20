@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zqpxe
-- 👀 I’m interested in Coding, Discord Bot Developing & CyberSecurity
+- 👀 I’m interested in Coding & Discord Bot Developing 
 - 📫 How to reach me @1106226252307779705 or qpxe@proton.me
 
 <!---
