@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zqpxe
-- 👀 I’m interested in Coding & Discord Bot Developing 
-- 📫 How to reach me @1106226252307779705 or qpxe@proton.me
+- 👋 Hi, I’m zqpxe
+- I’m interested in Discord Bot Developing & Software Development
+-  How to reach me <@1064232741132050522> or gunholder6 (Only add if you are interested in something)
 
 <!---
 zqpxe/zqpxe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
