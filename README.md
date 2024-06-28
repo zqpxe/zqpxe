@@ -1,4 +1,3 @@
-- Sup
 - Discord Bot Developing, Software Development & Game Hacking
 - Python & C++ 
 <!---
