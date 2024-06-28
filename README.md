@@ -9,7 +9,6 @@
 
 - Discord Bot Developing, Software Development & Game Hacking
 - Python & C++ 
-- redENGINE Staff & Admin Team
 
 
 <br>
