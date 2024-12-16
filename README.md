@@ -7,7 +7,7 @@
 
 
 
-- Discord Bot Developing, Software Development & Computer Science
+- Discord Bot Developing & Software Development 
 - Python, C++, C & Reverse Engeering 
 
 
