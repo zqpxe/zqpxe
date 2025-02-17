@@ -8,7 +8,7 @@
 
 
 - Discord Bot Developing & Software Development 
-- Python, C++, & Reverse Engeering 
+- Python, C++, , game hacking & Reverse Engeering 
 
 
 <br>
